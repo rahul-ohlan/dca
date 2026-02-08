@@ -6,3 +6,7 @@ build
 .Rproj.user
 docs/build
 data/simulation/
+sciplex*
+*.csv
+*.pkl
+.ipynb_checkpoints/
